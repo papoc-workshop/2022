@@ -2,7 +2,7 @@
 title: PaPoC Workshop 2021
 ---
 
-The 8th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC) will take place virtually on April 26th, 2021, in conjunction with the [EuroSys 2021](https://2021.eurosys.org/index.html) conference.
+The 8th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC) will take place virtually on April 26th, 2021, in conjunction with the [EuroSys 2021](https://2021.eurosys.org) conference.
 PaPoC 2021 is a successor to previous workshops in this series ([PaPoC 2014](http://eventos.fct.unl.pt/papec/), [PaPoC 2015](http://papoc.di.uminho.pt/), [PaPoC 2016](http://www2.ucsc.edu/papoc-2016/), [PaPoC 2017](http://software.imdea.org/Conferences/PAPOC17/program.shtml), [PaPoC 2018](https://papoc-workshop.github.io/2018/), [PaPoC 2019](https://novasys.di.fct.unl.pt/conferences/papoc19/) and [PaPoC 2020](https://papoc-workshop.github.io/2020/)) which brought together researchers and practitioners in the areas of distributed systems, programming languages, databases, and concurrent programming.
 
 The PaPoC workshop investigates the trade-offs among different consistency models for distributed systems, and their operational characteristics.
