@@ -26,7 +26,7 @@ Authors of accepted papers will have the opportunity to choose whether they want
 ## How to submit your work
 Submissions should be made [via Easychair](https://easychair.org/conferences/?conf=papoc21).
 
-All submissions should be written in English and provided in PDF format. We suggest that you use the [ACM template for LaTeX or MS Word](https://www.acm.org/publications/proceedings-template), but this is not requried.
+All submissions should be written in English and provided in PDF format. We suggest that you use the [ACM template for LaTeX or MS Word](https://www.acm.org/publications/proceedings-template), but this is not required.
 If using the LaTeX template, please use the following document class (which matches the [format used by EuroSys](https://2021.eurosys.org/cfp.html#cfp)):
 
     \documentclass[sigplan,10pt]{acmart}
