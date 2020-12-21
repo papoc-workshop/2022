@@ -13,22 +13,3 @@ It is clear that there is no universally best solution for sharing data in these
 
 In order to address these challenges, the PaPoC workshop brings together theoreticians and practitioners from different horizons: system development, distributed algorithms, concurrency, fault tolerance, databases, programming languages and verification, including both academia and industry.
 Topics of interest include (but are not limited to) models and mechanisms for consistency in distributed systems, including replicated data types/CRDTs, causal consistency, transaction isolation levels, hybrid consistency models such as RedBlue consistency, analysis of program correctness with regard to different consistency models, formal verification of consistency properties, and studies of performance, scalability, and programmability.
-
-## Organization
-
-**Program Chairs**
-* Roberto Palmieri (Lehigh University, USA)
-* Heidi Howard (University of Cambridge, UK)
-
-**Steering Committee**
-* Peter Bailis (Stanford University, USA)
-* Carlos Baquero (HASLab, INESC TEC & University of Minho, Portugal)
-* Annette Bieniusa (University of Kaiserslautern, Germany)
-* Carla Ferreira (Universidade NOVA de Lisboa, Portugal)
-* Alexey Gotsman (IMDEA Software Institute, Spain)
-* Martin Kleppmann (Cambridge University, UK)
-* Heather Miller (Carnegie Mellon University, USA)
-* Nuno Preguiça (NOVA-LINCS & NOVA University of Lisbon, Portugal)
-* Marco Serafini (University of Massachusetts Amherst, USA)
-* Marc Shapiro (Sorbonne-Universités—LIP6 & Inria, France)
-* Justin Sheehy (Akamai Technologies, USA)
