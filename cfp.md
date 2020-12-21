@@ -1,6 +1,7 @@
 ---
 title: Call for Papers
 ---
+# Call for Papers
 
 Consistency is one of the fundamental issues of distributed computing. Beyond the well-known tension between Consistency, Availability, and Partition-tolerance, as captured by the CAP theorem, many nuanced consistency models and algorithms have been developed for different purposes. These consistency models have subtly different behaviour in practice, which translates to difficult choices between fault tolerance, performance, and programmability. The issues and trade-offs are particularly vexing at scale, with a large number of processes or large shared databases, and in the presence of high latency and failure-prone networks, such as edge computing and peer-to-peer networks.
 
