@@ -7,6 +7,24 @@ title: Committees
 * Roberto Palmieri (Lehigh University, USA)
 * Heidi Howard (University of Cambridge, UK)
 
+**Program Committee**
+* Alysson Bessani, Universidade de Lisboa, Portugal
+* Jim Dowling, Logical Clocks, Sweden
+* Vincent Gramoli, University of Sydney, Australia
+* Rachid Guerraoui, École Polytechnique Fédérale de Lausanne, Switzerland
+* Sandeep Hans, IBM, India
+* Christopher Meiklejohn, Carnegie Mellon University, USA
+* Sebastiano Peluso, Facebook, USA
+* Henry Robinson, Slack, USA
+* Paolo Romano, INESC, Portugal
+* Marco Serafini, University of Massachusetts Amherst, USA
+* Ali Shoker, VORTEX Colab, Portugal
+* KC Sivaramakrishnan, Indian Institute of Technology, Madras, India
+* Pierre Sutra, Télécom SudParis, France
+* Adriana Szekeres, VMware, USA
+* Lewis Tseng, Boston College, USA
+* Peter van Hardenberg, Ink & Switch, San Francisco, USA
+
 **Steering Committee**
 * Peter Bailis (Stanford University, USA)
 * Carlos Baquero (HASLab, INESC TEC & University of Minho, Portugal)
