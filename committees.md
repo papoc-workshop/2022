@@ -8,6 +8,7 @@ title: Committees
 * Heidi Howard (University of Cambridge, UK)
 
 **Program Committee**
+* Masoud Saeida Ardekani, Google, USA
 * Alysson Bessani, Universidade de Lisboa, Portugal
 * Jim Dowling, Logical Clocks, Sweden
 * Vincent Gramoli, University of Sydney, Australia
