@@ -16,6 +16,7 @@ title: Committees
 * Sandeep Hans, IBM, India
 * Christopher Meiklejohn, Carnegie Mellon University, USA
 * Sebastiano Peluso, Facebook, USA
+* Gustavo Petri, ARM, UK
 * Henry Robinson, Slack, USA
 * Paolo Romano, INESC, Portugal
 * Marco Serafini, University of Massachusetts Amherst, USA
