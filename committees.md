@@ -4,8 +4,8 @@ title: Committees
 # Committees
 
 **Program Chairs**
-* Roberto Palmieri (Lehigh University, USA)
-* Heidi Howard (University of Cambridge, UK)
+* Roberto Palmieri, Lehigh University, USA
+* Heidi Howard, University of Cambridge, UK
 
 **Program Committee**
 * Masoud Saeida Ardekani, Google, USA
@@ -14,6 +14,7 @@ title: Committees
 * Vincent Gramoli, University of Sydney, Australia
 * Rachid Guerraoui, École Polytechnique Fédérale de Lausanne, Switzerland
 * Sandeep Hans, IBM, India
+* Ahmed Hassan, Lehigh University, USA
 * Christopher Meiklejohn, Carnegie Mellon University, USA
 * Sebastiano Peluso, Facebook, USA
 * Gustavo Petri, ARM, UK
