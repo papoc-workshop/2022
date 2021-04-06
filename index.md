@@ -27,3 +27,7 @@ A world of distributed, persistent memory is on its way. Our programming models 
 **Bio:**
 
 Peter Alvaro is an Assistant Professor of Computer Science at the University of California Santa Cruz, where he leads the Disorderly Labs research group ([disorderlylabs.github.io](https://disorderlylabs.github.io)). His research focuses on using data-centric languages and analysis techniques to build and reason about data-intensive distributed systems, in order to make them scalable, predictable and robust to the failures and nondeterminism endemic to large-scale distribution. Peter earned his PhD at UC Berkeley, where he studied with Joseph M. Hellerstein. He is a recipient of the NSF CAREER Award, the Facebook Research Award, the USENIX ATC Best Presentation Award, and the UCSC Excellence in Teaching Award.
+
+### Registration
+
+You can register now for PaPoC 2021 by [registering for Eurosys 2021](https://2021.eurosys.org/registration.html#registration). Registration is FREE. 
