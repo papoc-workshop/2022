@@ -7,4 +7,6 @@ title: Call for Lightning Talks
 
 Since its inception in 2014, the PaPoC workshop series has brought together researchers and practitioners who seek to develop a better understanding of consistency in distributed systems. PaPoC 2021 will be held virtually on April 26th, and for the first time, will include lightning talks to enable more members of the community to participate in PaPoC and thus help researchers and practitioners to connect with one another and find collaborators. 
 
-The PaPoC workshop invites submissions of lightning talks via the following short form: [https://forms.gle/zMn2Ek8wnXnSYK5o8](https://forms.gle/zMn2Ek8wnXnSYK5o8).  Lightning talks will be up to 3 mins each and must use only one slide. The deadline for submissions is **April 16th, 2021 AoE**.
+The PaPoC workshop invites submissions of lightning talks via the short form below.  Lightning talks will be up to 3 mins each and must use only one slide. The deadline for submissions is **April 16th, 2021 AoE**.
+
+Submission form: [https://forms.gle/zMn2Ek8wnXnSYK5o8](https://forms.gle/zMn2Ek8wnXnSYK5o8)
