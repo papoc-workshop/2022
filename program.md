@@ -7,21 +7,32 @@ PaPoC 2021 will take place on April 26th 2021.
 All times are given in [British Summer Time (BST)](https://www.timeanddate.com/time/zones/bst).
 
 ### Opening & Session 1: 1:30 PM - 2:30 PM
-* Certified Mergeable Replicated Data Types
-* Array CRDTs Using Delta-Mutations
-* Access Control Conflict Resolution in Distributed File Systems using CRDTs
-* Improving the Reactivity of Pure Operation-Based CRDTs
+* **Certified Mergeable Replicated Data Types**
+Vimala Soundarapandian (Indian Institute of Technology, Madras, India), KC Sivaramakrishnan (Indian Institute of Technology, Madras, India) and Kartik Nagar (Indian Institute of Technology, Madras, India).
+* **Array CRDTs Using Delta-Mutations**
+Arik Rinberg (Technion, Israel), Tomer Solomon (IBM, Israel), Gal Lushi (IBM, Israel), Roee Shlomo (IBM, Israel), Guy Khazma (IBM, Israel) and Paula Ta-Shma (IBM, Israel). 
+* **Access Control Conflict Resolution in Distributed File Systems using CRDTs**
+Elena Yanakieva (TU Kaiserslautern, Germany), Michael Youssef (TU Kaiserslautern, Germany), Ahmad Hussein Rezae (TU Kaiserslautern, Germany) and Annette Bieniusa (TU Kaiserslautern, Germany).
+* **Improving the Reactivity of Pure Operation-Based CRDTs**
+Jim Bauwens (Vrije Universiteit Brussel, Belgium) and Elisa Gonzalez Boix (Vrije Universiteit Brussel, Belgium). 
 
 ### Session 2: 2:30 PM - 3:30 PM
-* Towards the Synthesis of Coherence/Replication Protocols from Consistency Models via Real-Time Orderings
-* Totally-Ordered Prefix Parallel Snapshot Isolation
-* Advanced Domain-Driven Design for Consistency in Distributed Data-Intensive Systems
-* SCEW: Programmable BFT-Consensus with Smart Contracts for Client-Centric P2P Web Applications
+* **Towards the Synthesis of Coherence/Replication Protocols from Consistency Models via Real-Time Orderings**
+Vasilis Gavrielatos (University of Edinburgh, United Kingdom), Vijay Nagarajan (University of Edinburgh, United Kingdom) and Panagiota Fatourou (University of Crete, Greece). 
+* **Totally-Ordered Prefix Parallel Snapshot Isolation**
+Nuno Faria (INESCTEC & University of Minho, Portugal) and José Pereira (INESCTEC & University of Minho, Portugal). 
+* **Advanced Domain-Driven Design for Consistency in Distributed Data-Intensive Systems**
+Susanne Braun (Fraunhofer, Germany), Annette Bieniusa (TU Kaiserslautern , Germany) and Frank Elberzhager (Fraunhofer, Germany).
+* **SCEW: Programmable BFT-Consensus with Smart Contracts for Client-Centric P2P Web Applications**
+Martijn Sauwens (imec-DistriNet, KU Leuven, Belgium), Kristof Jannes (imec-DistriNet, KU Leuven, Belgium), Bert Lagaisse (imec-DistriNet, KU Leuven, Belgium) and Wouter Joosen (imec-DistriNet, KU Leuven, Belgium).
 
 ### Session 3: 3:30 PM - 4:30 PM
-* Convergent Causal Consistency for Social Media Posts
-* Cambria: Schema Evolution in Distributed Systems with Edit Lenses
-* Read-Write Quorum Systems Made Practical
+* **Convergent Causal Consistency for Social Media Posts**
+Tayuan Hsu (University of Illinois at Chicago, United States) and Ajay Kshemkalyani (University of Illinois at Chicago, United States). 
+* **Cambria: Schema Evolution in Distributed Systems with Edit Lenses**
+Geoffrey Litt (Massachusetts Institute of Technology, United States), Peter van Hardenberg (Ink and Switch, United States) and Orion Henry (Ink and Switch, United States).
+* **Read-Write Quorum Systems Made Practical**
+Michael Whittaker (UC Berkeley, United States), Aleksey Charapko (University of New Hampshire, United States), Joseph Hellerstein (UC Berkeley, United States), Heidi Howard (University of Cambridge, United Kingdom) and Ion Stoica (UC Berkeley, United States).
 
 ### Lightning Talks: 4:30 PM - 5:00 PM
 
