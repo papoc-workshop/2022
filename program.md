@@ -38,4 +38,14 @@ Michael Whittaker (UC Berkeley, United States), Aleksey Charapko (University of 
 
 ### Lightning Talks: 4:30 PM - 5:00 PM
 
-### Keynote (Joint with LADIS): 5:00 PM - 6:00 PM
+### Keynote by [Peter Alvaro](https://people.ucsc.edu/~palvaro/) (Joint with [LADIS](https://ladisworkshop.org/2021/)): 5:00 PM - 6:00 PM
+
+**Title: What not where: Sharing in a world of distributed, persistent memory**
+
+**Abstract:**
+
+A world of distributed, persistent memory is on its way. Our programming models traditionally operate on short-lived data representations tied to ephemeral contexts such as processes or computers. In the limit, however, data lifetime is infinite compared to these transient actors. We discuss the implications for programming models raised by a world of large and potentially persistent distributed memories, including the need for explicit, context-free, invariant data references. We present a novel operating system that uses wisdom from both storage and distributed systems to center the programming model around data as the primary citizen, and reflect on the transformative potential of this change for infrastructure and applications of the future.  We focus in particular on the landscape of data sharing and the consequences of globally-addressable persistent memory on existing consistency models and mechanisms.
+
+**Bio:**
+
+Peter Alvaro is an Assistant Professor of Computer Science at the University of California Santa Cruz, where he leads the Disorderly Labs research group ([disorderlylabs.github.io](https://disorderlylabs.github.io)). His research focuses on using data-centric languages and analysis techniques to build and reason about data-intensive distributed systems, in order to make them scalable, predictable and robust to the failures and nondeterminism endemic to large-scale distribution. Peter earned his PhD at UC Berkeley, where he studied with Joseph M. Hellerstein. He is a recipient of the NSF CAREER Award, the Facebook Research Award, the USENIX ATC Best Presentation Award, and the UCSC Excellence in Teaching Award.
