@@ -38,9 +38,11 @@ Michael Whittaker (UC Berkeley, United States), Aleksey Charapko (University of 
 
 ### Lightning Talks: 4:30 PM - 5:00 PM
 
-### Keynote by [Peter Alvaro](https://people.ucsc.edu/~palvaro/) (Joint with [LADIS](https://ladisworkshop.org/2021/)): 5:00 PM - 6:00 PM
+### Keynote: 5:00 PM - 6:00 PM
 
-**Title: What not where: Sharing in a world of distributed, persistent memory**
+This is a joint keynote with [LADIS](https://ladisworkshop.org/2021/).
+
+**What not where: Sharing in a world of distributed, persistent memory**
 
 **Abstract:**
 
@@ -48,4 +50,4 @@ A world of distributed, persistent memory is on its way. Our programming models 
 
 **Bio:**
 
-Peter Alvaro is an Assistant Professor of Computer Science at the University of California Santa Cruz, where he leads the Disorderly Labs research group ([disorderlylabs.github.io](https://disorderlylabs.github.io)). His research focuses on using data-centric languages and analysis techniques to build and reason about data-intensive distributed systems, in order to make them scalable, predictable and robust to the failures and nondeterminism endemic to large-scale distribution. Peter earned his PhD at UC Berkeley, where he studied with Joseph M. Hellerstein. He is a recipient of the NSF CAREER Award, the Facebook Research Award, the USENIX ATC Best Presentation Award, and the UCSC Excellence in Teaching Award.
+[Peter Alvaro](https://people.ucsc.edu/~palvaro/) is an Assistant Professor of Computer Science at the University of California Santa Cruz, where he leads the Disorderly Labs research group ([disorderlylabs.github.io](https://disorderlylabs.github.io)). His research focuses on using data-centric languages and analysis techniques to build and reason about data-intensive distributed systems, in order to make them scalable, predictable and robust to the failures and nondeterminism endemic to large-scale distribution. Peter earned his PhD at UC Berkeley, where he studied with Joseph M. Hellerstein. He is a recipient of the NSF CAREER Award, the Facebook Research Award, the USENIX ATC Best Presentation Award, and the UCSC Excellence in Teaching Award.
