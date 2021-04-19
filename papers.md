@@ -28,7 +28,7 @@ Michael Whittaker (UC Berkeley, United States), Aleksey Charapko (University of 
 Geoffrey Litt (Massachusetts Institute of Technology, United States), Peter van Hardenberg (Ink and Switch, United States) and Orion Henry (Ink and Switch, United States).
 
 **Advanced Domain-Driven Design for Consistency in Distributed Data-Intensive Systems.** 
-Susanne Braun (Fraunhofer, Germany), Annette Bieniusa (TU Kaiserslautern	, Germany) and Frank Elberzhager (Fraunhofer, Germany).
+Susanne Braun (Fraunhofer, Germany), Annette Bieniusa (TU Kaiserslautern , Germany) and Frank Elberzhager (Fraunhofer, Germany).
 
 **Certified Mergeable Replicated Data Types.** 
 Vimala Soundarapandian (Indian Institute of Technology, Madras, India), KC Sivaramakrishnan (Indian Institute of Technology, Madras, India) and Kartik Nagar (Indian Institute of Technology, Madras, India).
