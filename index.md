@@ -19,7 +19,7 @@ Topics of interest include (but are not limited to) models and mechanisms for co
 
 ### Program
 
-The keynote at PaPoC this year will be given by [**Peter Alvaro**](https://people.ucsc.edu/~palvaro/). See the [program](https://papoc-workshop.github.io/2021/program.html) for more details.
+The keynote at PaPoC this year will be given by [Peter Alvaro](https://people.ucsc.edu/~palvaro/). See the PaPoC 2021 [program](https://papoc-workshop.github.io/2021/program.html) for more details.
 
 ### Registration
 

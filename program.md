@@ -5,36 +5,37 @@ title: Program
 
 PaPoC 2021 will take place on April 26th 2021.
 All times are given in [British Summer Time (BST)](https://www.timeanddate.com/time/zones/bst).
+The proceedings will be avalaible in the [ACM Digital Library](https://dl.acm.org/doi/proceedings/10.1145/3447865).
 
 ### Opening & Session 1: 1:30 PM - 2:30 PM
 
 * **Certified Mergeable Replicated Data Types.** Vimala Soundarapandian (Indian Institute of Technology, Madras, India), KC Sivaramakrishnan (Indian Institute of Technology, Madras, India) and Kartik Nagar (Indian Institute of Technology, Madras, India).
 * **Array CRDTs Using Delta-Mutations.**
-Arik Rinberg (Technion, Israel), Tomer Solomon (IBM, Israel), Gal Lushi (IBM, Israel), Roee Shlomo (IBM, Israel), Guy Khazma (IBM, Israel) and Paula Ta-Shma (IBM, Israel). 
+Arik Rinberg (Technion, Israel), Tomer Solomon (IBM, Israel), Gal Lushi (IBM, Israel), Roee Shlomo (IBM, Israel), Guy Khazma (IBM, Israel) and Paula Ta-Shma (IBM, Israel). [[ACM DL](https://dl.acm.org/doi/10.1145/3447865.3457971)]
 * **Access Control Conflict Resolution in Distributed File Systems using CRDTs.**
-Elena Yanakieva (TU Kaiserslautern, Germany), Michael Youssef (TU Kaiserslautern, Germany), Ahmad Hussein Rezae (TU Kaiserslautern, Germany) and Annette Bieniusa (TU Kaiserslautern, Germany).
+Elena Yanakieva (TU Kaiserslautern, Germany), Michael Youssef (TU Kaiserslautern, Germany), Ahmad Hussein Rezae (TU Kaiserslautern, Germany) and Annette Bieniusa (TU Kaiserslautern, Germany). [[ACM DL](https://dl.acm.org/doi/10.1145/3447865.3457970)]
 * **Improving the Reactivity of Pure Operation-Based CRDTs.**
-Jim Bauwens (Vrije Universiteit Brussel, Belgium) and Elisa Gonzalez Boix (Vrije Universiteit Brussel, Belgium). 
+Jim Bauwens (Vrije Universiteit Brussel, Belgium) and Elisa Gonzalez Boix (Vrije Universiteit Brussel, Belgium). [[ACM DL](https://dl.acm.org/doi/10.1145/3447865.3457968)]
 
 ### Session 2: 2:30 PM - 3:30 PM
 
 * **Towards the Synthesis of Coherence/Replication Protocols from Consistency Models via Real-Time Orderings.**
-Vasilis Gavrielatos (University of Edinburgh, United Kingdom), Vijay Nagarajan (University of Edinburgh, United Kingdom) and Panagiota Fatourou (University of Crete, Greece). 
+Vasilis Gavrielatos (University of Edinburgh, United Kingdom), Vijay Nagarajan (University of Edinburgh, United Kingdom) and Panagiota Fatourou (University of Crete, Greece). [[ACM DL](https://dl.acm.org/doi/10.1145/3447865.3457964)]
 * **Totally-Ordered Prefix Parallel Snapshot Isolation.**
-Nuno Faria (INESCTEC & University of Minho, Portugal) and José Pereira (INESCTEC & University of Minho, Portugal). 
+Nuno Faria (INESCTEC & University of Minho, Portugal) and José Pereira (INESCTEC & University of Minho, Portugal). [[ACM DL](https://dl.acm.org/doi/10.1145/3447865.3457966)]
 * **Advanced Domain-Driven Design for Consistency in Distributed Data-Intensive Systems.**
-Susanne Braun (Fraunhofer, Germany), Annette Bieniusa (TU Kaiserslautern , Germany) and Frank Elberzhager (Fraunhofer, Germany).
+Susanne Braun (Fraunhofer, Germany), Annette Bieniusa (TU Kaiserslautern , Germany) and Frank Elberzhager (Fraunhofer, Germany). [[ACM DL](https://dl.acm.org/doi/10.1145/3447865.3457969)]
 * **SCEW: Programmable BFT-Consensus with Smart Contracts for Client-Centric P2P Web Applications.**
-Martijn Sauwens (imec-DistriNet, KU Leuven, Belgium), Kristof Jannes (imec-DistriNet, KU Leuven, Belgium), Bert Lagaisse (imec-DistriNet, KU Leuven, Belgium) and Wouter Joosen (imec-DistriNet, KU Leuven, Belgium).
+Martijn Sauwens (imec-DistriNet, KU Leuven, Belgium), Kristof Jannes (imec-DistriNet, KU Leuven, Belgium), Bert Lagaisse (imec-DistriNet, KU Leuven, Belgium) and Wouter Joosen (imec-DistriNet, KU Leuven, Belgium). [[ACM DL](https://dl.acm.org/doi/10.1145/3447865.3457965)]
 
 ### Session 3: 3:30 PM - 4:30 PM
 
 * **Convergent Causal Consistency for Social Media Posts.**
-Tayuan Hsu (University of Illinois at Chicago, United States) and Ajay Kshemkalyani (University of Illinois at Chicago, United States). 
+Tayuan Hsu (University of Illinois at Chicago, United States) and Ajay Kshemkalyani (University of Illinois at Chicago, United States). [[ACM DL](https://dl.acm.org/doi/10.1145/3447865.3457967)]
 * **Cambria: Schema Evolution in Distributed Systems with Edit Lenses.**
-Geoffrey Litt (Massachusetts Institute of Technology, United States), Peter van Hardenberg (Ink and Switch, United States) and Orion Henry (Ink and Switch, United States).
+Geoffrey Litt (Massachusetts Institute of Technology, United States), Peter van Hardenberg (Ink and Switch, United States) and Orion Henry (Ink and Switch, United States). [[ACM DL](https://dl.acm.org/doi/10.1145/3447865.3457963)]
 * **Read-Write Quorum Systems Made Practical.**
-Michael Whittaker (UC Berkeley, United States), Aleksey Charapko (University of New Hampshire, United States), Joseph Hellerstein (UC Berkeley, United States), Heidi Howard (University of Cambridge, United Kingdom) and Ion Stoica (UC Berkeley, United States).
+Michael Whittaker (UC Berkeley, United States), Aleksey Charapko (University of New Hampshire, United States), Joseph Hellerstein (UC Berkeley, United States), Heidi Howard (University of Cambridge, United Kingdom) and Ion Stoica (UC Berkeley, United States). [[ACM DL](https://dl.acm.org/doi/10.1145/3447865.3457962)]
 
 ### Lightning Talks: 4:30 PM - 5:00 PM
 
