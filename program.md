@@ -41,7 +41,7 @@ Michael Whittaker (UC Berkeley, United States), Aleksey Charapko (University of 
 
 ### Keynote: 5:00 PM - 6:00 PM
 
-This is a joint keynote with [LADIS](https://ladisworkshop.org/2021/).
+This is a joint keynote by [Peter Alvaro](https://people.ucsc.edu/~palvaro/) with [LADIS](https://ladisworkshop.org/2021/).
 
 **What not where: Sharing in a world of distributed, persistent memory**
 
