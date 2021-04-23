@@ -24,7 +24,7 @@ Vasilis Gavrielatos (University of Edinburgh, United Kingdom), Vijay Nagarajan (
 * **Totally-Ordered Prefix Parallel Snapshot Isolation.**
 Nuno Faria (INESCTEC & University of Minho, Portugal) and José Pereira (INESCTEC & University of Minho, Portugal). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457966),[talk](https://youtu.be/DUkq6S9faBc)]
 * **Advanced Domain-Driven Design for Consistency in Distributed Data-Intensive Systems.**
-Susanne Braun (Fraunhofer, Germany), Annette Bieniusa (TU Kaiserslautern , Germany) and Frank Elberzhager (Fraunhofer, Germany). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457969)]
+Susanne Braun (Fraunhofer, Germany), Annette Bieniusa (TU Kaiserslautern , Germany) and Frank Elberzhager (Fraunhofer, Germany). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457969),[talk](https://youtu.be/Zg_EAEvDWg0)]
 * **SCEW: Programmable BFT-Consensus with Smart Contracts for Client-Centric P2P Web Applications.**
 Martijn Sauwens (imec-DistriNet, KU Leuven, Belgium), Kristof Jannes (imec-DistriNet, KU Leuven, Belgium), Bert Lagaisse (imec-DistriNet, KU Leuven, Belgium) and Wouter Joosen (imec-DistriNet, KU Leuven, Belgium). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457965),[talk](https://youtu.be/Bb5YFNTpX68)]
 
