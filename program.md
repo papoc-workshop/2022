@@ -5,7 +5,7 @@ title: Program
 
 PaPoC 2021 will take place on April 26th 2021.
 All times are given in [British Summer Time (BST)](https://www.timeanddate.com/time/zones/bst).
-The proceedings will be avalaible in the [ACM Digital Library](https://dl.acm.org/doi/proceedings/10.1145/3447865).
+The proceedings will be avalaible in the [ACM Digital Library](https://dl.acm.org/doi/proceedings/10.1145/3447865) and talks are avalaible on [YouTube](https://youtube.com/playlist?list=PLzDuHU-z7gNgh7anHW2UO8Vrm_FhIoJ3F).
 
 ### Opening & Session 1: 1:30 PM - 2:30 PM
 
