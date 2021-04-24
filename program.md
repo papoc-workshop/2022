@@ -9,7 +9,7 @@ The proceedings will be avalaible in the [ACM Digital Library](https://dl.acm.or
 
 ### Opening & Session 1: 1:30 PM - 2:30 PM
 
-* **Certified Mergeable Replicated Data Types.** Vimala Soundarapandian (Indian Institute of Technology, Madras, India), KC Sivaramakrishnan (Indian Institute of Technology, Madras, India) and Kartik Nagar (Indian Institute of Technology, Madras, India).
+* **Certified Mergeable Replicated Data Types.** Vimala Soundarapandian (Indian Institute of Technology, Madras, India), KC Sivaramakrishnan (Indian Institute of Technology, Madras, India) and Kartik Nagar (Indian Institute of Technology, Madras, India). [[talk](https://youtu.be/6TTRv5rLI-8)]
 * **Array CRDTs Using Delta-Mutations.**
 Arik Rinberg (Technion, Israel), Tomer Solomon (IBM, Israel), Gal Lushi (IBM, Israel), Roee Shlomo (IBM, Israel), Guy Khazma (IBM, Israel) and Paula Ta-Shma (IBM, Israel). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457971),[talk](https://youtu.be/X4M27qohtDs)]
 * **Access Control Conflict Resolution in Distributed File Systems using CRDTs.**
