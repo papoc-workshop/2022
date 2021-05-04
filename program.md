@@ -13,20 +13,20 @@ The proceedings are available in the [ACM Digital Library](https://dl.acm.org/do
 * **Array CRDTs Using Delta-Mutations.**
 Arik Rinberg (Technion, Israel), Tomer Solomon (IBM, Israel), Gal Lushi (IBM, Israel), Roee Shlomo (IBM, Israel), Guy Khazma (IBM, Israel) and Paula Ta-Shma (IBM, Israel). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457971),[talk](https://youtu.be/X4M27qohtDs)]
 * **Access Control Conflict Resolution in Distributed File Systems using CRDTs.**
-Elena Yanakieva (TU Kaiserslautern, Germany), Michael Youssef (TU Kaiserslautern, Germany), Ahmad Hussein Rezae (TU Kaiserslautern, Germany) and Annette Bieniusa (TU Kaiserslautern, Germany). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457970),[talk](https://youtu.be/dLmHkJFrFks)]
+Elena Yanakieva (TU Kaiserslautern, Germany), Michael Youssef (TU Kaiserslautern, Germany), Ahmad Hussein Rezae (TU Kaiserslautern, Germany) and Annette Bieniusa (TU Kaiserslautern, Germany). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457970),[talk](https://youtu.be/dLmHkJFrFks),[slides](https://papoc-workshop.github.io/2021/slides/yanakieva.pdf)]
 * **Improving the Reactivity of Pure Operation-Based CRDTs.**
 Jim Bauwens (Vrije Universiteit Brussel, Belgium) and Elisa Gonzalez Boix (Vrije Universiteit Brussel, Belgium). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457968),[talk](https://youtu.be/dRuz-aIGI5E)]
 
 ### Session 2: 2:30 PM - 3:30 PM
 
 * **Towards the Synthesis of Coherence/Replication Protocols from Consistency Models via Real-Time Orderings.**
-Vasilis Gavrielatos (University of Edinburgh, United Kingdom), Vijay Nagarajan (University of Edinburgh, United Kingdom) and Panagiota Fatourou (University of Crete, Greece). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457964),[talk](https://youtu.be/fe-uxY7cPTY)]
+Vasilis Gavrielatos (University of Edinburgh, United Kingdom), Vijay Nagarajan (University of Edinburgh, United Kingdom) and Panagiota Fatourou (University of Crete, Greece). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457964),[talk](https://youtu.be/fe-uxY7cPTY),[slides](https://papoc-workshop.github.io/2021/slides/gavrielatos.pdf)]
 * **Totally-Ordered Prefix Parallel Snapshot Isolation.**
-Nuno Faria (INESCTEC & University of Minho, Portugal) and José Pereira (INESCTEC & University of Minho, Portugal). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457966),[talk](https://youtu.be/DUkq6S9faBc)]
+Nuno Faria (INESCTEC & University of Minho, Portugal) and José Pereira (INESCTEC & University of Minho, Portugal). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457966),[talk](https://youtu.be/DUkq6S9faBc),[slides](https://papoc-workshop.github.io/2021/slides/fario.pdf)]
 * **Advanced Domain-Driven Design for Consistency in Distributed Data-Intensive Systems.**
 Susanne Braun (Fraunhofer, Germany), Annette Bieniusa (TU Kaiserslautern , Germany) and Frank Elberzhager (Fraunhofer, Germany). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457969),[talk](https://youtu.be/Zg_EAEvDWg0)]
 * **SCEW: Programmable BFT-Consensus with Smart Contracts for Client-Centric P2P Web Applications.**
-Martijn Sauwens (imec-DistriNet, KU Leuven, Belgium), Kristof Jannes (imec-DistriNet, KU Leuven, Belgium), Bert Lagaisse (imec-DistriNet, KU Leuven, Belgium) and Wouter Joosen (imec-DistriNet, KU Leuven, Belgium). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457965),[talk](https://youtu.be/Bb5YFNTpX68)]
+Martijn Sauwens (imec-DistriNet, KU Leuven, Belgium), Kristof Jannes (imec-DistriNet, KU Leuven, Belgium), Bert Lagaisse (imec-DistriNet, KU Leuven, Belgium) and Wouter Joosen (imec-DistriNet, KU Leuven, Belgium). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457965),[talk](https://youtu.be/Bb5YFNTpX68),[slides](https://papoc-workshop.github.io/2021/slides/sauwens.pdf)]
 
 ### Session 3: 3:30 PM - 4:30 PM
 
@@ -42,7 +42,7 @@ Michael Whittaker (UC Berkeley, United States), Aleksey Charapko (University of 
 * Benjamin Bengfort - Scaling Consensus with Delegation
 * Rebecca Bilbro - An API for Consensus
 * Kane Boubacar - Degradability
-* Joran Dirk Greef - Viewstamped Replication Made Famous
+* Joran Dirk Greef - Viewstamped Replication Made Famous [[slides](https://papoc-workshop.github.io/2021/slides/greef.pdf)]
 * Martin Kleppmann - Metadata compression in the Automerge CRDT library
 * Jonathan Nadal - Building Distributed Systems With Stateright
 
