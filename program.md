@@ -35,7 +35,7 @@ Tayuan Hsu (University of Illinois at Chicago, United States) and Ajay Kshemkaly
 * **Cambria: Schema Evolution in Distributed Systems with Edit Lenses.**
 Geoffrey Litt (Massachusetts Institute of Technology, United States), Peter van Hardenberg (Ink and Switch, United States) and Orion Henry (Ink and Switch, United States). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457963),[talk](https://youtu.be/HwIJ1L8hlas)]
 * **Read-Write Quorum Systems Made Practical.**
-Michael Whittaker (UC Berkeley, United States), Aleksey Charapko (University of New Hampshire, United States), Joseph Hellerstein (UC Berkeley, United States), Heidi Howard (University of Cambridge, United Kingdom) and Ion Stoica (UC Berkeley, United States). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457962),[talk](https://youtu.be/CRLw9PcK8d4)]
+Michael Whittaker (UC Berkeley, United States), Aleksey Charapko (University of New Hampshire, United States), Joseph Hellerstein (UC Berkeley, United States), Heidi Howard (University of Cambridge, United Kingdom) and Ion Stoica (UC Berkeley, United States). [[paper](https://dl.acm.org/doi/10.1145/3447865.3457962),[talk](https://youtu.be/CRLw9PcK8d4),[slides](https://papoc-workshop.github.io/2021/slides/whittaker.pdf)]
 
 ### Lightning Talks: 4:30 PM - 5:00 PM
 
