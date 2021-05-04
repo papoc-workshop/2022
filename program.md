@@ -39,6 +39,13 @@ Michael Whittaker (UC Berkeley, United States), Aleksey Charapko (University of 
 
 ### Lightning Talks: 4:30 PM - 5:00 PM
 
+* Benjamin Bengfort - Scaling Consensus with Delegation
+* Rebecca Bilbro - An API for Consensus
+* Kane Boubacar - Degradability
+* Joran Dirk Greef - Viewstamped Replication Made Famous
+* Martin Kleppmann - Metadata compression in the Automerge CRDT library
+* Jonathan Nadal - Building Distributed Systems With Stateright
+
 ### Keynote: 5:00 PM - 6:00 PM
 
 This is a joint keynote by [Peter Alvaro](https://people.ucsc.edu/~palvaro/) with [LADIS](https://ladisworkshop.org/2021/).
