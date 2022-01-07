@@ -1,2 +1,2 @@
-# 2021
-PaPoC workshop 2021
+# 2022
+PaPoC workshop 2022

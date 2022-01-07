@@ -4,29 +4,24 @@ title: Committees
 # Committees
 
 **Program Chairs**
-* Roberto Palmieri, Lehigh University, USA
-* Heidi Howard, University of Cambridge, UK
+* Adriana Szekeres, VMware Research, USA
+* KC Sivaramakrishnan, Indian Institute of Technology, Madras
 
 **Program Committee**
-* Masoud Saeida Ardekani, Google, USA
-* Alysson Bessani, Universidade de Lisboa, Portugal
-* Jim Dowling, Logical Clocks, Sweden
-* Vincent Gramoli, University of Sydney, Australia
-* Rachid Guerraoui, École Polytechnique Fédérale de Lausanne, Switzerland
-* Sandeep Hans, IBM, India
-* Ahmed Hassan, Lehigh University, USA
-* Christopher Meiklejohn, Carnegie Mellon University, USA
-* Sebastiano Peluso, Facebook, USA
-* Gustavo Petri, ARM, UK
-* Henry Robinson, Slack, USA
-* Paolo Romano, INESC, Portugal
-* Marco Serafini, University of Massachusetts Amherst, USA
-* Ali Shoker, VORTEX Colab, Portugal
-* KC Sivaramakrishnan, Indian Institute of Technology, Madras, India
-* Pierre Sutra, Télécom SudParis, France
-* Adriana Szekeres, VMware, USA
-* Lewis Tseng, Boston College, USA
-* Peter van Hardenberg, Ink & Switch, San Francisco, USA
+* Hagit Attiya, Technion, Israel
+* Sebastian Burckhardt, Microsoft Research, USA
+* Vasilis Gavrielatos, Huawei Research, UK
+* Alexey Gotsman, IMDEA Software Institute, Spain
+* Gowtham Kaki, University of Colorado, Boulder, USA
+* Akash Lal, Microsoft Research, India
+* João Leitão, NOVA-LINCS & NOVA University of Lisbon, Portugal
+* Jialin Li, NUS, Singapore
+* Hongjin Liang, Nanjing University, China
+* Mae Milano, University of California, Berkeley, USA
+* Madhavan Mukund, Chennai Mathematical Institute, India
+* Kartik Nagar, Indian Institute of Technology, Madras, India
+* Sreeja Nair, ADLINK Technology, France
+* Naveen Sharma, Google, USA
 
 **Steering Committee**
 * Peter Bailis (Stanford University, USA)
