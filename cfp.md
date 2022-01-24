@@ -72,7 +72,7 @@ Word](https://www.acm.org/publications/proceedings-template), but this is not
 required.
 
 If using the LaTeX template, please use the following document class (which
-matches the [format used by EuroSys](https://2022.eurosys.org/cfp.html#cfp)):
+matches the [format used by EuroSys](https://github.com/papoc-workshop/2022)):
 
     \documentclass[sigplan,review]{acmart}
 
