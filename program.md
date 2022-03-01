@@ -43,35 +43,35 @@ he built the Cassandra database.
 
 # Accepted Papers
 
-* **Ordering Operations for Generic Replicated Data Types using Version Trees**
+* **Ordering Operations for Generic Replicated Data Types using Version Trees**  
 Nazmus Saquib (University of California, Santa Barbara), Chandra Krintz (University of California, Santa Barbara), Rich Wolski (University of California, Santa Barbara)
 
-* **Melda: A General Purpose Delta State JSON CRDT**
+* **Melda: A General Purpose Delta State JSON CRDT**  
 Amos Brocco (University of Applied Sciences and Arts of Southern Switzerland)
 
-* **Bilateral Anti-Entropy for Eventual Consistency**
+* **Bilateral Anti-Entropy for Eventual Consistency**  
 Rebecca Bilbro (Rotational Labs), Benjamin Bengfort (Rotational Labs), Pete Keleher (University of Maryland, College Park)
 
-* **Relaxed Paxos: Quorum intersection revisited (again)**
+* **Relaxed Paxos: Quorum intersection revisited (again)**  
 Heidi Howard (University of Cambridge), Richard Mortier (University of Cambridge)
 
-* **Merge What You Can, Fork What You Can’t: Managing Data Integrity in Local-First Software**
+* **Merge What You Can, Fork What You Can’t: Managing Data Integrity in Local-First Software**  
 Nicholas Schiefer (MIT), Geoffrey Litt (MIT), Daniel Jackson (MIT)
 
-* **Distributed Access Control for Collaborative Applications using CRDTs**
+* **Distributed Access Control for Collaborative Applications using CRDTs**  
 Pierre-Antoine Rault (INRIA), Claudia-Lavinia Ignat (INRIA), Olivier Perrin (Université de Lorraine)
 
-* **Making CRDTs Byzantine Fault Tolerant**
+* **Making CRDTs Byzantine Fault Tolerant**  
 Martin Kleppmann (University of Cambridge)
 
-* **An Oblivious Observed-Reset Embeddable Replicated Counter**
+* **An Oblivious Observed-Reset Embeddable Replicated Counter**  
 Luis Silva (Universidade Nova de Lisboa), Frederico Aleixo (Universidade Nova de Lisboa), Albert Linde (Universidade Nova de Lisboa), João Leitão (Universidade Nova de Lisboa), Nuno Preguica (Universidade Nova de Lisboa)
 
-* **Marrying Replicated and Functional Data Structures Conflict**
+* **Marrying Replicated and Functional Data Structures**  
 Vimala Soundarapandian (IIT Madras), Adharsh Kamath (NITK Surathkal), Kartik Nagar (IIT Madras), KC Sivaramakrishnan (IIT Madras)
 
-* **Geo-located data for better dynamic replication**
+* **Geo-located data for better dynamic replication**  
 Luis Silva (Universidade Nova de Lisboa), Frederico Aleixo (Universidade Nova de Lisboa), Albert Linde (Universidade Nova de Lisboa), João Leitão (Universidade Nova de Lisboa), Nuno Preguica
 
-* **Bolt-On Convergence in Replicated Data Types Conflict**
+* **Bolt-On Convergence in Replicated Data Types**   
 Gowtham Kaki (University of Colorado Boulder)
