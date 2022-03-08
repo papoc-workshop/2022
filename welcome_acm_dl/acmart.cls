@@ -668,20 +668,20 @@
    marginparwidth=6pc,heightrounded}%
 \or % acmsmall
    \geometry{twoside=true,
-     includeheadfoot, head=13pt, foot=2pc,
+     includeheadfoot, head=13pt, foot=0pc,
      paperwidth=6.75in, paperheight=10in,
      top=58pt, bottom=44pt, inner=46pt, outer=46pt,
      marginparwidth=2pc,heightrounded
    }%
 \or % acmlarge
-   \geometry{twoside=true, head=13pt, foot=2pc,
+   \geometry{twoside=true, head=13pt, foot=0pc,
      paperwidth=8.5in, paperheight=11in,
      includeheadfoot,
      top=78pt, bottom=114pt, inner=81pt, outer=81pt,
      marginparwidth=4pc,heightrounded
      }%
 \or % acmtog
-   \geometry{twoside=true, head=13pt, foot=2pc,
+   \geometry{twoside=true, head=13pt, foot=0pc,
      paperwidth=8.5in, paperheight=11in,
      includeheadfoot, columnsep=24pt,
      top=52pt, bottom=75pt, inner=52pt, outer=52pt,
@@ -705,7 +705,7 @@
    \geometry{twoside=true, head=13pt,
      paperwidth=8.5in, paperheight=11in,
      includeheadfoot=false, columnsep=2pc,
-     top=1in, bottom=1in, inner=0.75in, outer=0.75in,
+     top=1in, bottom=0in, inner=0.75in, outer=0.75in,
      marginparwidth=2pc,heightrounded
      }%
 \or % sigchi
@@ -720,7 +720,7 @@
      paperwidth=11in, paperheight=8.5in,
      includeheadfoot, marginparsep=72pt,
      marginparwidth=170pt, columnsep=20pt,
-     top=72pt, bottom=72pt, left=314pt, right=72pt
+     top=72pt, bottom=0pt, left=314pt, right=72pt
      }%
      \@mparswitchfalse
      \reversemarginpar
