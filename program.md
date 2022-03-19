@@ -84,3 +84,11 @@ Gowtham Kaki (University of Colorado Boulder)
 
 * **Ordering Operations for Generic Replicated Data Types using Version Trees**  
 Nazmus Saquib (University of California, Santa Barbara), Chandra Krintz (University of California, Santa Barbara), Rich Wolski (University of California, Santa Barbara)
+
+## Session 4: 16:30 to 18:30
+
+* **Invited Talk 1:** Title TBD
+Karthik Ranganathan, CTO, YugaByte
+
+* **Invited Talk 2:** Title TBD
+Joe Hellerstein, Professor, UC Berkeley
