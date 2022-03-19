@@ -61,8 +61,8 @@ _15:15, 25m_
 ## Session 4: 16:30 to 18:30
 
 ### Invited Talk 1: Title TBD  
-_16:30, 60m_  
 **Karthik Ranganathan, CTO, YugaByte**  
+_16:30, 60m_  
 
 #### Abstract
 
@@ -75,8 +75,8 @@ strongly consistent database. Prior to Yugabyte, Karthik was at Facebook, where
 he built the Cassandra database.
 
 ### Invited Talk 2: Title TBD  
-_17:30, 60m_  
 **Joe Hellerstein, Professor, UC Berkeley**  
+_17:30, 60m_  
 
 #### Abstract
 
