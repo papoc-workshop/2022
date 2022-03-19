@@ -33,7 +33,7 @@ Nicholas Schiefer (MIT), Geoffrey Litt (MIT), Daniel Jackson (MIT)
 _10:55, 25m_
 
 * **Geo-located data for better dynamic replication**  
-Luis Silva (Universidade Nova de Lisboa), Frederico Aleixo (Universidade Nova de Lisboa), Albert Linde (Universidade Nova de Lisboa), João Leitão (Universidade Nova de Lisboa), Nuno Preguica  
+Luis Silva (Universidade Nova de Lisboa), Frederico Aleixo (Universidade Nova de Lisboa), Albert Linde (Universidade Nova de Lisboa), João Leitão (Universidade Nova de Lisboa), Nuno Preguica  (Universidade Nova de Lisboa)  
 _11:20, 25m_
 
 * **Distributed Access Control for Collaborative Applications using CRDTs**  
