@@ -11,58 +11,58 @@ to find the times in your local time zone.
 ## Opening & Session 1: 08:30 to 09:45
 
 * **Making CRDTs Byzantine Fault Tolerant**  
-Martin Kleppmann (University of Cambridge)
+Martin Kleppmann (University of Cambridge)  
 _08:30, 25m_
 
 * **Melda: A General Purpose Delta State JSON CRDT**  
-Amos Brocco (University of Applied Sciences and Arts of Southern Switzerland)
+Amos Brocco (University of Applied Sciences and Arts of Southern Switzerland)  
 _08:55, 25m_
 
 * **Relaxed Paxos: Quorum intersection revisited (again)**  
-Heidi Howard (University of Cambridge), Richard Mortier (University of Cambridge)
+Heidi Howard (University of Cambridge), Richard Mortier (University of Cambridge)  
 _09:20, 25m_
 
 ## Session 2: 10:30 to 12:10
 
 * **Marrying Replicated and Functional Data Structures**  
-Vimala Soundarapandian (IIT Madras), Adharsh Kamath (NITK Surathkal), Kartik Nagar (IIT Madras), KC Sivaramakrishnan (IIT Madras)
+Vimala Soundarapandian (IIT Madras), Adharsh Kamath (NITK Surathkal), Kartik Nagar (IIT Madras), KC Sivaramakrishnan (IIT Madras)  
 _10:30, 25m_
 
 * **Merge What You Can, Fork What You Can’t: Managing Data Integrity in Local-First Software**  
-Nicholas Schiefer (MIT), Geoffrey Litt (MIT), Daniel Jackson (MIT)
+Nicholas Schiefer (MIT), Geoffrey Litt (MIT), Daniel Jackson (MIT)  
 _10:55, 25m_
 
 * **Geo-located data for better dynamic replication**  
-Luis Silva (Universidade Nova de Lisboa), Frederico Aleixo (Universidade Nova de Lisboa), Albert Linde (Universidade Nova de Lisboa), João Leitão (Universidade Nova de Lisboa), Nuno Preguica
+Luis Silva (Universidade Nova de Lisboa), Frederico Aleixo (Universidade Nova de Lisboa), Albert Linde (Universidade Nova de Lisboa), João Leitão (Universidade Nova de Lisboa), Nuno Preguica  
 _11:20, 25m_
 
 * **Distributed Access Control for Collaborative Applications using CRDTs**  
-Pierre-Antoine Rault (INRIA), Claudia-Lavinia Ignat (INRIA), Olivier Perrin (Université de Lorraine)
+Pierre-Antoine Rault (INRIA), Claudia-Lavinia Ignat (INRIA), Olivier Perrin (Université de Lorraine)  
 _11:45, 25m_
 
 ## Session 3: 14:00 to 15:40
 
 * **An Oblivious Observed-Reset Embeddable Replicated Counter**  
-Luis Silva (Universidade Nova de Lisboa), Frederico Aleixo (Universidade Nova de Lisboa), Albert Linde (Universidade Nova de Lisboa), João Leitão (Universidade Nova de Lisboa), Nuno Preguica (Universidade Nova de Lisboa)
+Luis Silva (Universidade Nova de Lisboa), Frederico Aleixo (Universidade Nova de Lisboa), Albert Linde (Universidade Nova de Lisboa), João Leitão (Universidade Nova de Lisboa), Nuno Preguica (Universidade Nova de Lisboa)  
 _14:00, 25m_
 
 * **Bilateral Anti-Entropy for Eventual Consistency**  
-Rebecca Bilbro (Rotational Labs), Benjamin Bengfort (Rotational Labs), Pete Keleher (University of Maryland, College Park)
+Rebecca Bilbro (Rotational Labs), Benjamin Bengfort (Rotational Labs), Pete Keleher (University of Maryland, College Park)  
 _14:25, 25m_
 
 * **Bolt-On Convergence in Replicated Data Types**   
-Gowtham Kaki (University of Colorado Boulder)
+Gowtham Kaki (University of Colorado Boulder)  
 _14:50, 25m_
 
 * **Ordering Operations for Generic Replicated Data Types using Version Trees**  
-Nazmus Saquib (University of California, Santa Barbara), Chandra Krintz (University of California, Santa Barbara), Rich Wolski (University of California, Santa Barbara)
+Nazmus Saquib (University of California, Santa Barbara), Chandra Krintz (University of California, Santa Barbara), Rich Wolski (University of California, Santa Barbara)  
 _15:15, 25m_
 
 ## Session 4: 16:30 to 18:30
 
-### Invited Talk 1: Title TBD
-_16:30, 60m_
-**Karthik Ranganathan, CTO, YugaByte**
+### Invited Talk 1: Title TBD  
+_16:30, 60m_  
+**Karthik Ranganathan, CTO, YugaByte**  
 
 #### Abstract
 
@@ -74,9 +74,9 @@ Karthik Ranganathan is a founder and CTO of YugabyteDB, a globally distributed,
 strongly consistent database. Prior to Yugabyte, Karthik was at Facebook, where
 he built the Cassandra database.
 
-### Invited Talk 2: Title TBD
-_17:30, 60m_
-**Joe Hellerstein, Professor, UC Berkeley**
+### Invited Talk 2: Title TBD  
+_17:30, 60m_  
+**Joe Hellerstein, Professor, UC Berkeley**  
 
 #### Abstract
 
