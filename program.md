@@ -12,57 +12,57 @@ to find the times in your local time zone.
 
 * **Making CRDTs Byzantine Fault Tolerant**  
 Martin Kleppmann (University of Cambridge)  
-_08:30, 25m, in-person_
+_08:30, 25m, in-person_  
 
 * **Melda: A General Purpose Delta State JSON CRDT**  
 Amos Brocco (University of Applied Sciences and Arts of Southern Switzerland)  
-_08:55, 25m, in-person_
+_08:55, 25m, in-person_  
 
 * **Relaxed Paxos: Quorum intersection revisited (again)**  
 Heidi Howard (University of Cambridge), Richard Mortier (University of Cambridge)  
-_09:20, 25m, remote_
+_09:20, 25m, remote_  
 
 ## Session 2: 10:30 to 12:10
 
 * **Marrying Replicated and Functional Data Structures**  
 Vimala Soundarapandian (IIT Madras), Adharsh Kamath (NITK Surathkal), Kartik Nagar (IIT Madras), KC Sivaramakrishnan (IIT Madras)  
-_10:30, 25m, remote_
+_10:30, 25m, remote_  
 
 * **Merge What You Can, Fork What You Can’t: Managing Data Integrity in Local-First Software**  
 Nicholas Schiefer (MIT), Geoffrey Litt (MIT), Daniel Jackson (MIT)  
-_10:55, 25m, in-person_
+_10:55, 25m, in-person_  
 
 * **Geo-located data for better dynamic replication**  
 Luis Silva (Universidade Nova de Lisboa), Frederico Aleixo (Universidade Nova de Lisboa), Albert Linde (Universidade Nova de Lisboa), João Leitão (Universidade Nova de Lisboa), Nuno Preguica  (Universidade Nova de Lisboa)  
-_11:20, 25m, in-person_
+_11:20, 25m, in-person_  
 
 * **Distributed Access Control for Collaborative Applications using CRDTs**  
 Pierre-Antoine Rault (INRIA), Claudia-Lavinia Ignat (INRIA), Olivier Perrin (Université de Lorraine)  
-_11:45, 25m, in-person_
+_11:45, 25m, in-person_  
 
 ## Session 3: 14:00 to 15:40
 
 * **An Oblivious Observed-Reset Embeddable Replicated Counter**  
 Matthew Weidner (Carnegie Mellon University), Paulo Sérgio Almeida (HASLab/INESC TEC and Universidade do Minho)    
-_14:00, 25m, remote_
+_14:00, 25m, remote_  
 
 * **Bilateral Anti-Entropy for Eventual Consistency**  
 Rebecca Bilbro (Rotational Labs), Benjamin Bengfort (Rotational Labs), Pete Keleher (University of Maryland, College Park)  
-_14:25, 25m, remote_
+_14:25, 25m, remote_  
 
 * **Bolt-On Convergence in Replicated Data Types**   
 Gowtham Kaki (University of Colorado Boulder), Prasanth Prahladan (University of Colorado Boulder), Nicholas Lewchenko (University of Colorado Boulder)   
-_14:50, 25m, remote_
+_14:50, 25m, remote_  
 
 * **Ordering Operations for Generic Replicated Data Types using Version Trees**  
 Nazmus Saquib (University of California, Santa Barbara), Chandra Krintz (University of California, Santa Barbara), Rich Wolski (University of California, Santa Barbara)  
-_15:15, 25m, remote_
+_15:15, 25m, remote_  
 
 ## Session 4: 16:30 to 18:30
 
 ### Invited Talk 1: Title TBD  
 **Karthik Ranganathan, CTO, YugaByte**  
-_16:30, 60m, remote_
+_16:30, 60m, remote_  
 
 #### Abstract
 
@@ -76,7 +76,7 @@ he built the Cassandra database.
 
 ### Invited Talk 2: A Programmable Cloud: CALM Foundations and Open Challenges
 **Joseph M. Hellerstein, Professor, UC Berkeley**  
-_17:30, 60m, remote_
+_17:30, 60m, remote_  
 
 #### Abstract
 
