@@ -60,19 +60,34 @@ _15:15, 25m, remote_
 
 ## Session 4: 16:30 to 18:30
 
-### Invited Talk 1: Title TBD  
+### Invited Talk 1: Implementing Distributed ACID Transactions Without Atomic Clocks
 **Karthik Ranganathan, CTO, YugaByte**  
 _16:30, 60m, remote_  
 
 #### Abstract
 
-TBD
+ACID transactions are a fundamental building block when developing
+business-critical, user-facing applications. They simplify the complex task of
+ensuring data integrity while supporting highly concurrent operations. While
+they are taken for granted in monolithic SQL databases, most distributed DBs
+would forsake them completely.
+
+Fortunately, this is no longer the case. The trend started with Google Spanner,
+which offered distributed transactions using GPS based atomic clocks - unheard
+of in the database world before. Now, distributed transactions - without
+requiring atomic clocks - are offered by distributed SQL databases. One such
+example of a fully open source database offering this is YugabyteDB. Using the
+example of YugabyteDB, this talk will explain how distributed ACID transactions
+can be achieved without atomic clocks - without compromising on performance.
 
 #### Bio
 
-Karthik Ranganathan is a founder and CTO of YugabyteDB, a globally distributed,
-strongly consistent database. Prior to Yugabyte, Karthik was at Facebook, where
-he built the Cassandra database.
+Karthik was one of the original database engineers at Facebook responsible for
+building distributed databases including Cassandra and HBase. He is an Apache
+HBase committer, and also an early contributor to Cassandra, before it was
+open-sourced by Facebook. He is currently the co-founder and CTO of the company
+behind YugabyteDB, a fully open-source distributed SQL database for building
+cloud-native and geo-distributed applications.
 
 ### Invited Talk 2: A Programmable Cloud: CALM Foundations and Open Challenges
 **Joseph M. Hellerstein, Professor, UC Berkeley**  
